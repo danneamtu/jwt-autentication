@@ -11,6 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
     "@sendgrid/mail": "^7.1.0",
     "@typegoose/typegoose": "^7.0.0",

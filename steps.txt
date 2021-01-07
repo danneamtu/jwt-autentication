@@ -1,0 +1,4 @@
+MONGO DB
+1. create cluster 
+2. get connection
+3. create .env file
